@@ -1,0 +1,14 @@
+/.vs
+/packages
+/Firma/bin
+/FirmaApp/bin
+/ValidaciónFirma/bin
+/FirmaConsole/bin
+/AplicacionFirma/bin
+/Firma/obj
+/FirmaApp/obj
+/ValidaciónFirma/obj
+/FirmaConsole/obj
+/AplicacionFirma/obj
+/Firma/.git
+/Firma/.gitignore
